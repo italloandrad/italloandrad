@@ -1,16 +1,38 @@
-### Hi there 👋
+# Olá, seja muito bem-vindo(a) ao meu perfil👋
+## Me chamo Ítallo Andrade e estou graduando em Sistemas de Informação 
+- 🔭 Estou em busca da primeira oportunidade na área de desenvolvimento para crescer e desenvolver melhor minhas habilidades em programação. Meu foco é o desenvolvimento front-end, onde possuo conhecimentos em HTML, CSS, Javascript e alguns frameworks como Bootstrap e React.js.
 
-<!--
-**italloandrad/italloandrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
+- 🌱 Estou aprendendo React and Typescript
+- 👯 Procuro uma oportunidade na Área de Desenvolvimento
+- 🖥️ No tempo livre gosto de Jogar, Assistir Videos e Filmes 
+- 💬 Pergunte-me sobre Tecnologias, Religião, músicas e jogos
+- 📫 Contate-me no email: italloandrad@hotmail.com
+- 😄 Pronomes: ele/dele
+- ⚡ Fato engraçado: Algumas vezes faço live na      <a href="https://www.twitch.tv/flowve"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/italloandrad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italloandrad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italloandrad&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu busco aprimorar
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Itallo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Itallo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Itallo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Itallo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Itallo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+## Minhas Redes Sociais   
+  <div> 
+  <a href="https://www.youtube.com/channel/UCe4aMDc06_6jx_7mFqMwg5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/italloandrad"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:italloandrad@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/italloandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+  ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
+ 
+</div><br/>
+<div>
