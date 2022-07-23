@@ -1,9 +1,9 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
 ## Me chamo Ítallo Andrade e estou graduando em Sistemas de Informação 
-- 🔭 Estou em busca da primeira oportunidade na área de desenvolvimento para crescer e desenvolver melhor minhas habilidades em programação. Meu foco é o desenvolvimento front-end, onde possuo conhecimentos em HTML, CSS, Javascript e alguns frameworks como Bootstrap e React.js.
+- 🔭 Estou em busca da primeira oportunidade na área de desenvolvimento para crescer e desenvolver melhor minhas habilidades em programação. Meu foco é o desenvolvimento front-end, onde possuo conhecimentos em HTML, CSS, Javascript e alguns frameworks como Bootstrap e React Native
 
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
-- 🌱 Estou aprendendo React and Typescript
+- 🌱 Estou aprendendo React Native and Typescript
 - 👯 Procuro uma oportunidade na Área de Desenvolvimento
 - 🖥️ No tempo livre gosto de Jogar, Assistir Videos e Filmes 
 - 💬 Pergunte-me sobre Tecnologias, Religião, músicas e jogos
