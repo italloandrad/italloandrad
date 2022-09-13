@@ -1,12 +1,12 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
 ## Me chamo Ítallo Andrade e estou graduando em Sistemas de Informação 
-- 🔭 Estou em busca da primeira oportunidade na área de desenvolvimento para crescer e desenvolver melhor minhas habilidades em programação. Meu foco é o desenvolvimento front-end, onde possuo conhecimentos em HTML, CSS, Javascript e ReactJS/React-Native
+- 🔭 Estou em busca de uma oportunidade na área de desenvolvimento para crescer e desenvolver melhor minhas habilidades em programação. Meu foco é o desenvolvimento front-end, onde possuo conhecimentos em HTML, CSS, Javascript, ReactJS/React-Native, StyledComponents e API's
 
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
-- 🌱 Estou aprendendo React Native e Typescript
+- 🌱 Estou buscando me especializar no Typescript
 - 👯 Procuro uma oportunidade na Área de Desenvolvimento
 - 🖥️ No tempo livre gosto de Jogar, Assistir Podcasts e Filmes 
-- 💬 Pergunte-me sobre Tecnologias, Religião, músicas e jogos
+- 💬 Pergunte-me sobre Tecnologias,músicas e jogos
 - 📫 Contate-me no email: italloandrad@hotmail.com
 - ⚡ Fato engraçado: Raras vezes faço live na    <a href="https://www.twitch.tv/flowve"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
