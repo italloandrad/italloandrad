@@ -1,5 +1,5 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
-## Me chamo Ítallo Andrade e estou graduando em Sistemas de Informação 
+## Me chamo Ítallo Andrade e sou Desenvolvedor React
 - 🔭 Estou em busca de uma oportunidade na área de desenvolvimento para crescer e desenvolver melhor minhas habilidades em programação. Meu foco é o desenvolvimento front-end, onde possuo conhecimentos em HTML, CSS, Javascript, ReactJS/React-Native, StyledComponents, Firebase e API's
 
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
