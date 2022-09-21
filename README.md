@@ -6,7 +6,7 @@
 - 🌱 Estou buscando me especializar no Typescript
 - 👯 Procuro uma oportunidade na Área de Desenvolvimento
 - 🖥️ No tempo livre gosto de Jogar, Assistir Podcasts e Filmes 
-- 💬 Pergunte-me sobre Tecnologias,músicas e jogos
+- 💬 Pergunte-me sobre Tecnologias, músicas e jogos
 - 📫 Contate-me no email: italloandrad@hotmail.com
 - ⚡ Fato engraçado: Raras vezes faço live na    <a href="https://www.twitch.tv/flowve"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
