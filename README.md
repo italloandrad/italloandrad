@@ -1,7 +1,7 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
 ## Me chamo Ítallo Andrade e sou Desenvolvedor
-- 🔭 
 
+- 🔭 Formado em Sistemas de Informação
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
 - 🌱 Estou buscando me especializar no Typescript
 - 👯 Procuro uma oportunidade na Área de Desenvolvimento
