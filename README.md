@@ -1,5 +1,5 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
-## Me chamo Ítallo Andrade e sou Desenvolvedor
+## Me chamo Ítallo Andrade
 
 - 🔭 Formado em Sistemas de Informação
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
