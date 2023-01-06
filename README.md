@@ -4,7 +4,6 @@
 - 🔭 Formado em Sistemas de Informação
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
 - 🌱 Estou buscando me especializar no Typescript
-- 👯 Procuro uma oportunidade na Área de Desenvolvimento
 - 🖥️ No tempo livre gosto de Jogar, Assistir Podcasts e Filmes 
 - 💬 Pergunte-me sobre Tecnologias, músicas e jogos
 - 📫 Contate-me no email: italloandrad@hotmail.com
