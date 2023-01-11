@@ -1,10 +1,11 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
-## Me chamo Ítallo Andrade
+## Me chamo Ítallo Andrade 👋
 
 - 🔭 Formado em Sistemas de Informação
+- 💼 Atualmente estou trabalhando na GSB Software com PL/SQL, Oracle Forms & Oracle Reports
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
-- 🌱 Estou buscando me especializar no Typescript
-- 🖥️ No tempo livre gosto de Jogar, Assistir Podcasts e Filmes 
+- 🌱 Experiência no Desenvolvimento de aplicações móveis com React Native
+- 🖥️ No tempo livre gosto de Jogar, Assistir Filmes, Séries e descobrir novos hobbies
 - 💬 Pergunte-me sobre Tecnologias, músicas e jogos
 - 📫 Contate-me no email: italloandrad@hotmail.com
 - ⚡ Fato engraçado: Raras vezes faço live na    <a href="https://www.twitch.tv/flowve"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
