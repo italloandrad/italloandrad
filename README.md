@@ -5,7 +5,7 @@
 - 💼 Atualmente estou procurando por uma oportunidade na área Front-end
 - 💼 Já trabalhei como Desenvolvedor de Software com PL/SQL, Oracle Forms & Oracle Reports
 - 🌍 Moro atualmente em Patos de Minas- Minas Gerais, Brasil
-- 🌱 Experiência no Desenvolvimento de aplicações móveis com React Native
+- 🌱 Experiência no Desenvolvimento de aplicações móveis com React Native e Web com ReactJS
 - 🖥️ No tempo livre gosto de Jogar, Assistir Filmes, Séries e descobrir novos hobbies
 - 💬 Pergunte-me sobre Tecnologias, músicas e jogos
 - 📫 Contate-me no email: italloandrad@hotmail.com
