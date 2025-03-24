@@ -1,7 +1,7 @@
 # Olá, seja muito bem-vindo(a) ao meu perfil👋
 ## Me chamo Ítallo Andrade 👋
 
-- 🔭 Formado em Sistemas de Informação e Pós-graduando em Cybersecurity e cibercrimes
+- 🔭 Formado em Sistemas de Informação e um MBA em Cybersecurity e cibercrimes
 - 💼 Atualmente trabalhando como Suporte a usuarios no ERP SAP B1
 - 💼 Já trabalhei como Desenvolvedor de Software com PL/SQL, Oracle Forms & Oracle Reports
 - 🌍 //
